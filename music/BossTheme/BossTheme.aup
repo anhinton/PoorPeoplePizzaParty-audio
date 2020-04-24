@@ -1,0 +1,91 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="BossTheme_data" version="1.3.0" audacityversion="2.2.1" sel0="0.0000000000" sel1="59.8319375000" vpos="0" h="0.0000000000" zoom="21.5332031250" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Spider-Man 2 - Pizza Theme - Metal Cover _ Christian Richardson-t_Cod-6K3oA" channel="0" linked="1" mute="0" solo="0" height="153" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2871933">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000a18.au" len="152608" min="-1.01807" max="1.038043" rms="0.228344"/>
+				</waveblock>
+				<waveblock start="152608">
+					<simpleblockfile filename="e0000a66.au" len="262144" min="-1.00749" max="1.041299" rms="0.228827"/>
+				</waveblock>
+				<waveblock start="414752">
+					<simpleblockfile filename="e000099e.au" len="262144" min="-1.048874" max="1.057142" rms="0.2603"/>
+				</waveblock>
+				<waveblock start="676896">
+					<simpleblockfile filename="e0000e1f.au" len="262144" min="-1.061216" max="1.022565" rms="0.266744"/>
+				</waveblock>
+				<waveblock start="939040">
+					<simpleblockfile filename="e00004a5.au" len="262144" min="-1.074771" max="1.021047" rms="0.278946"/>
+				</waveblock>
+				<waveblock start="1201184">
+					<simpleblockfile filename="e0000b74.au" len="262144" min="-1.056923" max="1.016689" rms="0.264032"/>
+				</waveblock>
+				<waveblock start="1463328">
+					<simpleblockfile filename="e000088e.au" len="262144" min="-1.025517" max="1.041344" rms="0.244271"/>
+				</waveblock>
+				<waveblock start="1725472">
+					<simpleblockfile filename="e0000f96.au" len="262144" min="-1.06881" max="1.009596" rms="0.253869"/>
+				</waveblock>
+				<waveblock start="1987616">
+					<simpleblockfile filename="e00003d9.au" len="262144" min="-1.042815" max="1.025457" rms="0.242108"/>
+				</waveblock>
+				<waveblock start="2249760">
+					<simpleblockfile filename="e0000c63.au" len="262144" min="-1.054943" max="1.01524" rms="0.255611"/>
+				</waveblock>
+				<waveblock start="2511904">
+					<simpleblockfile filename="e0000ac9.au" len="180014" min="-0.989754" max="1.064602" rms="0.27303"/>
+				</waveblock>
+				<waveblock start="2691918">
+					<simpleblockfile filename="e00003b6.au" len="180015" min="-0.723335" max="0.900143" rms="0.116302"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Spider-Man 2 - Pizza Theme - Metal Cover _ Christian Richardson-t_Cod-6K3oA" channel="1" linked="0" mute="0" solo="0" height="147" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2871933">
+				<waveblock start="0">
+					<simpleblockfile filename="e000023f.au" len="152608" min="-0.994138" max="0.901987" rms="0.212422"/>
+				</waveblock>
+				<waveblock start="152608">
+					<simpleblockfile filename="e0000dc5.au" len="262144" min="-0.992374" max="0.941565" rms="0.212454"/>
+				</waveblock>
+				<waveblock start="414752">
+					<simpleblockfile filename="e0000cf3.au" len="262144" min="-1.008668" max="0.988208" rms="0.246612"/>
+				</waveblock>
+				<waveblock start="676896">
+					<simpleblockfile filename="e000077e.au" len="262144" min="-1.005861" max="1.003101" rms="0.253723"/>
+				</waveblock>
+				<waveblock start="939040">
+					<simpleblockfile filename="e0000c47.au" len="262144" min="-1.011637" max="1.069824" rms="0.263659"/>
+				</waveblock>
+				<waveblock start="1201184">
+					<simpleblockfile filename="e0000fc4.au" len="262144" min="-1.009173" max="1.011253" rms="0.255823"/>
+				</waveblock>
+				<waveblock start="1463328">
+					<simpleblockfile filename="e0000614.au" len="262144" min="-0.981542" max="1.00699" rms="0.244164"/>
+				</waveblock>
+				<waveblock start="1725472">
+					<simpleblockfile filename="e0000db3.au" len="262144" min="-1.015079" max="1.01327" rms="0.246756"/>
+				</waveblock>
+				<waveblock start="1987616">
+					<simpleblockfile filename="e0000b3a.au" len="262144" min="-1.017543" max="0.981913" rms="0.236934"/>
+				</waveblock>
+				<waveblock start="2249760">
+					<simpleblockfile filename="e00003ef.au" len="262144" min="-1.041819" max="1.034063" rms="0.252664"/>
+				</waveblock>
+				<waveblock start="2511904">
+					<simpleblockfile filename="e000035c.au" len="180014" min="-0.988409" max="1.047191" rms="0.262829"/>
+				</waveblock>
+				<waveblock start="2691918">
+					<simpleblockfile filename="e0000cf5.au" len="180015" min="-0.722606" max="0.698515" rms="0.107855"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
