@@ -27,8 +27,7 @@ by
 is licensed under 
 [CC-BY](https://creativecommons.org/licenses/by/3.0/legalcode)
 
-`music/PartyTheme/Club Penguin Pizza Parlor Theme (Charlie'\''s Here) - Jazz Cover-9rCwPsAdfO4.opus`
-
+`music/PartyTheme/Club Penguin Pizza Parlor Theme (Charlie's Here) - Jazz Cover-9rCwPsAdfO4.opus`
 "[Club Penguin Pizza Parlor Theme (Charlie's Here): Jazz Cover](https://www.youtube.com/watch?v=9rCwPsAdfO4)"
 by
 [OmicronGaming](https://www.youtube.com/channel/UCryKACitFpPVPiqvYH6pQBQ)
