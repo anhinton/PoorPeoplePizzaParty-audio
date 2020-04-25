@@ -40,3 +40,18 @@ by
 [NoiseCollector](https://freesound.org/people/NoiseCollector/)
 is licensed under
 [CC-BY](http://creativecommons.org/licenses/by/3.0/)
+
+`sound/toppings/salami/202230__deraj__pop-sound.wav`
+"[Pop sound](https://freesound.org/people/deraj/sounds/202230/)"
+by
+[deraj](https://freesound.org/people/deraj/)
+is licensed under
+[CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
+
+`sound/toppings/chicken/272239__spanrucker__nut-crunch-chomp.aiff`
+"[nut crunch
+chomp](https://freesound.org/people/spanrucker/sounds/272239/)"
+by
+[spanrucker](https://freesound.org/people/spanrucker/)
+is licensed under
+[CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
