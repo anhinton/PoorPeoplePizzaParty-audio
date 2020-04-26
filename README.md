@@ -41,6 +41,13 @@ by
 is licensed under
 [CC-BY](http://creativecommons.org/licenses/by/3.0/)
 
+`sound/toppings/apricot/315838__gneube__leather-bag-drop.wav`
+"[Leather Bag Drop](https://freesound.org/people/gneube/sounds/315838/)"
+by
+[gneube](https://freesound.org/people/gneube/)
+is licensed under
+[CC-BY](http://creativecommons.org/licenses/by/3.0/)
+
 `sound/toppings/salami/202230__deraj__pop-sound.wav`
 "[Pop sound](https://freesound.org/people/deraj/sounds/202230/)"
 by
