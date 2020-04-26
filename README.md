@@ -97,3 +97,10 @@ by
 [HoseNoseSounds](https://freesound.org/people/HoseNoseSounds/)
 is licensed under
 [CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
+
+`sound/camera/485711__applesandpears50__camera-shutter.m4a`
+"[Camera Shutter.m4a](https://freesound.org/people/applesandpears50/sounds/485711/)"
+by
+[applesandpears50](https://freesound.org/people/applesandpears50/)
+is licensed under
+[CC-0](http://creativecommons.org/publicdomain/zero/1.0/)
